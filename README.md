@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-FFE15F?style=flat-square&logo=python&logoColor=4280B2" />
   <img src="https://img.shields.io/badge/-C++-5A88B1?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/-CMake-B91E28?style=flat-square&logo=CMake&logoColor=064F8C" />
+  <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=B91E28" />
 </span>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
