@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.cznewborn.com">
-    <img height="24px" src="https://img.shields.io/badge/Blog-博客-DFE4EA?" /></a>
+    <img height="24px" src="https://img.shields.io/badge/Blog-博客-DFE4EA" /></a>
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
