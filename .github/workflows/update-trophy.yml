@@ -1,0 +1,73 @@
+name: Update GitHub Profile Trophy
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-trophy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch trophy SVG (retry + keep last on failure)
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+
+          URL_PRIMARY="https://github-profile-trophy.vercel.app/?username=Code-Newborn&row=1&column=6&no-frame=true&no-bg=true&cache_seconds=86400"
+          TMP_FILE="$(mktemp)"
+
+          echo "Fetching trophy from: $URL_PRIMARY"
+          # 说明：
+          # -f: HTTP 非 2xx 直接报错
+          # --retry-all-errors: 对 5xx/网络错误都重试
+          # --retry 8: 最多 8 次
+          # --retry-delay 5: 初始延迟 5s（curl 会指数退避）
+          # --connect-timeout/--max-time: 防止卡死
+          if curl -fsSL \
+              -H "User-Agent: github-actions" \
+              --retry 8 \
+              --retry-all-errors \
+              --retry-delay 5 \
+              --connect-timeout 10 \
+              --max-time 60 \
+              "$URL_PRIMARY" -o "$TMP_FILE"; then
+            # 基础校验：确保是 SVG（避免拿到错误页 HTML）
+            if head -n 2 "$TMP_FILE" | grep -qi "<svg"; then
+              mv "$TMP_FILE" assets/trophy.svg
+              echo "Trophy updated."
+            else
+              echo "Fetched content is not SVG. Keep existing trophy.svg."
+              rm -f "$TMP_FILE"
+              exit 0
+            fi
+          else
+            echo "Fetch failed (e.g. 503). Keep existing trophy.svg."
+            rm -f "$TMP_FILE"
+            exit 0
+          fi
+
+      - name: Commit changes (if any)
+        shell: bash
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: update trophy.svg"
+          git push
