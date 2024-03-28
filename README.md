@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  hr {
-    border: none; /* 移除默认边框 */
-    height: 1px; /* 线的高度 */
-    background-color: #333; /* 线的颜色 */
-    margin: 10px 0; /* 线的上下外边距 */
-  }
-</style>
-
 
 <!-- 语言图标
 <img height="24px" src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
@@ -40,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<hr>
+<hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 
 <!-- 奖杯展示 -->
 <div align="left">
