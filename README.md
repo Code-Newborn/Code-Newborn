@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=github-readme-stats)](https://github.com/Code-Newborn/github-readme-stats)
