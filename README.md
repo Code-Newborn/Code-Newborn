@@ -26,14 +26,7 @@ Here are some ideas to get you started:
   
 </span>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Metrics](https://metrics.lecoq.io/Code-Newborn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Etc%2FGMT-8)
 
 <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
 
