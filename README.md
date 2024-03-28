@@ -57,17 +57,17 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/years/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
+  <a href="https://github.com/Code-Newborn?tab=repositories">
     <img src="https://badges.strrl.dev/repos/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/gists/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?style=flat-square&color=black&logo=github">
