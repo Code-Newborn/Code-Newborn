@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner)](https://github.com/Code-Newborn/DDPG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner&show_owner=true)](https://github.com/Code-Newborn/DDPG)
