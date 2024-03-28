@@ -91,5 +91,5 @@ Here are some ideas to get you started:
   <a href="https://gist.github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/gists/Code-Newborn?&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?&color=black&logo=github"></a>
+    <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?&color=D9775E&logo=github"></a>
 </div>
