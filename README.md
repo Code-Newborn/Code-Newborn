@@ -33,12 +33,17 @@ Here are some ideas to get you started:
 <!-- 奖杯展示 -->
 <div align="left"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
 
+<!-- 数据统计展示 -->
 <div align="left">
-  <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /></a>&emsp;
-  <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>&emsp;
+  <span >
+    <a href="https://github.com/Code-Newborn/">
+      <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /></a>&emsp;
+    <a href="https://github.com/Code-Newborn/">
+      <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>&emsp;
+  </span>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Code-Newborn/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <a href="https://github.com/Code-Newborn/PSO"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
 </div>
@@ -65,7 +70,7 @@ Here are some ideas to get you started:
   </b>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
@@ -76,4 +81,4 @@ Here are some ideas to get you started:
     <img src="https://badges.strrl.dev/gists/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?style=flat-square&color=black&logo=github"></a>
-</p>
+</div>
