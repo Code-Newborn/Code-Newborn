@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 奖杯展示 -->
-<div align="left"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> 
+</div>
 
 <!-- 数据统计展示 -->
 <div align="left">
