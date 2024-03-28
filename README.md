@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <span >
-[![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
+<img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=black" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/-PYTHON-oringe?style=flat-square&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
