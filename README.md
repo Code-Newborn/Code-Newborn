@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=FFDE56&bg_color=151515" />
 <img src="https://img.shields.io/badge/-PYTHON-oringe?style=flat-square&logo=python&logoColor=FFDE56&bg_color=151515" />
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript&logoColor=FFDE56&bg_color=151515" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFDE56&bg_color=FFFFFF" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF&bg_color=FFFFFF" />
 </span>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
