@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <a href="https://www.cznewborn.com">
     <img height="24px" src="https://img.shields.io/badge/Blog-博客-0E83CD" /></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&color=BB293C&logo=github"></a>
+    <img height="24px" src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&color=BB293C&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/years/Code-Newborn?&color=F34B7D&logo=github"></a>
+    <img height="24px" src="https://badges.strrl.dev/years/Code-Newborn?&color=F34B7D&logo=github"></a>
   <a href="https://github.com/Code-Newborn?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Code-Newborn?&color=DA5B0B&logo=github"></a>
+    <img height="24px" src="https://badges.strrl.dev/repos/Code-Newborn?&color=DA5B0B&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?&color=D9775E&logo=github"></a>
+    <img height="24px" src="https://badges.strrl.dev/commits/monthly/Code-Newborn?&color=D9775E&logo=github"></a>
 </div>
