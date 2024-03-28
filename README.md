@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Code-Newborn/PSO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
+
+[![Lorin-github](https://github-profile-trophy.vercel.app/?username=Code-Newborn)](https://github.com/Code-Newborn/DDPG)
