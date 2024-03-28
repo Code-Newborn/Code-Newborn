@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+
 <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
 
 <a href="https://github.com/Code-Newborn/DDPG">
