@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://github.com/Code-Newborn/DDPG"><img width="190px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
-  <a href="https://github.com/Code-Newborn/PSO"><img width="190px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
+  <a href="https://github.com/Code-Newborn/DDPG"><img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
+  <a href="https://github.com/Code-Newborn/PSO"><img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
 </div>
 
 <a href="https://github.com/Code-Newborn/DDPG">
