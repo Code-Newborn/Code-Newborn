@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 分隔线 -->
-<hr style="border:1 dashed #987cb9" width="80%" color=#987cb9 size=1>
+<hr>
 
 <!-- 奖杯展示 -->
 <div align="left">
