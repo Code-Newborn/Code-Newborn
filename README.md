@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-<a href="https://www.cznewborn.com/"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><!-- wi*quL3fcV --><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
+<a href="https://www.cznewborn.com/"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><!-- wi*quL3fcV --><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
 
 <a href="https://github.com/Code-Newborn/DDPG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
