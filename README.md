@@ -28,8 +28,7 @@ Here are some ideas to get you started:
   </span>
 </div>
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
+<!-- 奖杯展示 -->
 <div align="center"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
 
 <div align="center">
