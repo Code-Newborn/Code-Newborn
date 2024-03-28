@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 奖杯展示 -->
-<div align="center"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
+<div align="left"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /></a>&emsp;
   <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>&emsp;
 </div>
