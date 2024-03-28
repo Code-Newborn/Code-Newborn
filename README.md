@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 仓库统计 -->
-<div align="center">
+<div align="left">
   <a href="https://www.cznewborn.com">
     <img height="24px" src="https://img.shields.io/badge/Blog-博客-0E83CD" /></a>
   <a href="https://github.com/Code-Newborn">
