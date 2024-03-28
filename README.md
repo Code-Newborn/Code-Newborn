@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Code-Newborn/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <a href="https://github.com/Code-Newborn/Qt_MultiThread_Method"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=Qt_MultiThread_Method&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <br>
-  <a href="https://github.com/Code-Newborn/SpotDetection_CircleFitting"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=SpotDetection_CircleFitting&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;<br>
+  <a href="https://github.com/Code-Newborn/SpotDetection_CircleFitting"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=SpotDetection_CircleFitting&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <a href="https://github.com/Code-Newborn/Code-Newborn.github.io"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=Code-Newborn.github.io&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <br>
 </div>
