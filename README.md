@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <span >
 <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=151515&bg_color=151515" />
-<img src="https://img.shields.io/badge/-HTML5-oringe?style=flat-square&logo=html5" />
-<img src="https://img.shields.io/badge/-PYTHON-oringe?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/-PYTHON-oringe?style=flat-square&logo=python&logoColor=FFDE56" />
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus" />
 </span>
