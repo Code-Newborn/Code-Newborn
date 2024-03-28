@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- 语言图标 -->
 <div align="center"> 
   <span >
-    <img src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
+    <img height="50px" src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/-C++-5A88B1?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/-Pytorch-DFE4EA?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
     <img src="https://img.shields.io/badge/-Python-FFE15F?style=flat-square&logo=python&logoColor=4280B2" />
