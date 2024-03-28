@@ -26,19 +26,12 @@ Here are some ideas to get you started:
 
 <a href="https://www.cznewborn.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact)
-
-
 <a href="https://github.com/Code-Newborn/DDPG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/Code-Newborn/PSO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=Code-Newborn)](https://github.com/Code-Newborn/DDPG)
 
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
