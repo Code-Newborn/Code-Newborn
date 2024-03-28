@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 </span>
 
-![Metrics](https://metrics.lecoq.io/Code-Newborn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Etc%2FGMT-8)
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact" /></a>
 
