@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm&show_owner)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG)](https://github.com/Code-Newborn/DDPG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG)](https://github.com/Code-Newborn/DDPG&show_owner)
