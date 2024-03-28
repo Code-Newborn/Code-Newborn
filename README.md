@@ -43,18 +43,13 @@ Here are some ideas to get you started:
   </span>
 </div>
 
+<!-- 置顶仓库 -->
 <div align="left">
   <a href="https://github.com/Code-Newborn/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
   <a href="https://github.com/Code-Newborn/PSO"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;
 </div>
 
-<a href="https://github.com/Code-Newborn/DDPG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/Code-Newborn/PSO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=PSO&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-
+<!-- 链接徽章 -->
 <div align="center">
   <a href="https://www.cznewborn.com"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
