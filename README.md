@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-// 语言图标
-<div align="center">
+
+<!--   图标      -->
+<div align="center"> 
   <span >
     <img src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
     <img src="https://img.shields.io/badge/-C++-5A88B1?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
