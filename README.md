@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<div align="center"> <img width="500px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
+<div align="center"> <img width="800px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn" /> </div>
 
 <div align="center">
   <a href="https://github.com/Code-Newborn/"><img height="190px" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=calm" /></a>&emsp;
