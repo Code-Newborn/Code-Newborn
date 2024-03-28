@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Code-Newborn/DDPG))
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true)
