@@ -59,18 +59,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?style=flat-square&color=black&logo=github">
-  </a>
+    <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/years/Code-Newborn?style=flat-square&color=black&logo=github">
-  </a>
+    <img src="https://badges.strrl.dev/years/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Code-Newborn?style=flat-square&color=black&logo=github">
-  </a>
+    <img src="https://badges.strrl.dev/repos/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://gist.github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/gists/Code-Newborn?style=flat-square&color=black&logo=github">
-  </a>
+    <img src="https://badges.strrl.dev/gists/Code-Newborn?style=flat-square&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?style=flat-square&color=black&logo=github">
-  </a>
+    <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?style=flat-square&color=black&logo=github"></a>
 </p>
