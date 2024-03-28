@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <span >
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](https://champyin.com)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python" />
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus" />
 </span>
