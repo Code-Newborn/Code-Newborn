@@ -63,22 +63,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/Code-Newborn/EyeInHandCalibrate"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=EyeInHandCalibrate&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a>&emsp;<br>
 </div>
 
-<!-- 链接徽章 -->
-<div align="center">
-  <a href="https://www.cznewborn.com"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-  <a href="https://space.bilibili.com/23473180/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-  <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&label=Views&color=0e75b6&style=flat&logo=github" alt="访问量统计" />
-</div>
-
 <p>
   <b>
     Technology has the power to make the world a better place
   </b>
 </p>
 
+<!-- 仓库统计 -->
 <div align="center">
   <a href="https://www.cznewborn.com">
     <img height="24px" src="https://img.shields.io/badge/Blog-博客-0E83CD" /></a>
