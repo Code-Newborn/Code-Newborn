@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   </span>
 </div>
 
-<br>
-<hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=10>
+<!-- 分隔线 -->
+<hr style="border:1 dashed #987cb9" width="80%" color=#987cb9 size=1>
 
 <!-- 奖杯展示 -->
 <div align="left">
