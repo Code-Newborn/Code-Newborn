@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <span >
-<img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=151515" />
-<img src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=151515&" />
-<img src="https://img.shields.io/badge/-PYTHON-oringe?style=flat-square&logo=python&logoColor=151515" />
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript&logoColor=151515" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=151515" />
+<img src="https://img.shields.io/badge/-Pytorch-95a5a6?style=flat-square&logo=pytorch&logoColor=151515" />
+<img src="https://img.shields.io/badge/-HTML5-95a5a6?style=flat-square&logo=html5&logoColor=151515&" />
+<img src="https://img.shields.io/badge/-PYTHON-95a5a6?style=flat-square&logo=python&logoColor=151515" />
+<img src="https://img.shields.io/badge/-JavaScript-95a5a6?style=flat-square&logo=javascript&logoColor=151515" />
+<img src="https://img.shields.io/badge/-C++-95a5a6?style=flat-square&logo=cplusplus&logoColor=151515" />
 </span>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
