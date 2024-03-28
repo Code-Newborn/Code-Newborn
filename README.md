@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
+<hr style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=10>
 
 <!-- 奖杯展示 -->
 <div align="left">
