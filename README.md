@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- 语言图标 -->
+<!-- 语言图标
+<img height="24px" src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
+-->
 <div align="center"> 
   <span >
     <img height="24px" src="https://img.shields.io/badge/-C-5A88B1?style=flat-square&logo=C&logoColor=FFFFFF" />
