@@ -79,38 +79,3 @@ Here are some ideas to get you started:
     <img src="https://badges.strrl.dev/commits/monthly/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
 </p>
- 
-<h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
- 
-### 🧠 Web and code
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:brain -->
-* <a href='http://welcome.voup.cn' target='_blank'>emptyXXX</a> - 2023-05-21
-* <a href='http://welcome.voup.cn' target='_blank'>emptyXX</a> - 2023-05-21
-* <a href='http://welcome.voup.cn' target='_blank'>emptyX</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
-<!-- END_SECTION:brain -->
- 
-</td></tr>
- 
-<tr><td>
- 
-### 🤾‍♂️ Funny Soul
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:douban -->
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在XXXXXX</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在XXXXXX</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在XXXXXX</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在XXXXXX</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-<!-- END_SECTION:douban -->
- 
-</td></tr>
- 
-<tr><td>
