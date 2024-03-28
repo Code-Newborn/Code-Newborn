@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&color=black&logo=github"></a>
   <a href="https://github.com/Code-Newborn">
-    <img src="https://badges.strrl.dev/years/Code-Newborn?&color=black&logo=github"></a>
+    <img src="https://badges.strrl.dev/years/Code-Newborn?&color=F56EB1&logo=github"></a>
   <a href="https://github.com/Code-Newborn?tab=repositories">
     <img src="https://badges.strrl.dev/repos/Code-Newborn?&color=black&logo=github"></a>
   <a href="https://gist.github.com/Code-Newborn">
