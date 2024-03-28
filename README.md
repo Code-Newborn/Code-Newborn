@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <a href="https://www.zhihu.com/people/zhjunqiu"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?username=Lorin-github&label=Views&color=0e75b6&style=flat&logo=github" alt="访问量统计" />
+  <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&label=Views&color=0e75b6&style=flat&logo=github" alt="访问量统计" />
 </div>
 
 <p>
@@ -57,9 +57,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
   <a href="https://github.com/Code-Newborn">
     <img src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?style=flat-square&color=black&logo=github">
   </a>
