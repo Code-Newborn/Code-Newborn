@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <span >
 
-  <img src="https://img.shields.io/badge/-Pytorch-FFFFFF?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/-Pytorch-dfe4ea?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/-PYTHON-FFE15F?style=flat-square&logo=python&logoColor=4280B2" />
   <img src="https://img.shields.io/badge/-C++-373F51?style=flat-square&logo=cplusplus&logoColor=151515" />
   <img src="https://img.shields.io/badge/-C++-373F51?style=flat-square&logo=cplusplus&logoColor=151515" />
