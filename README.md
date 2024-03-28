@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   </span>
 </div>
 
+<br>
+<br>
+
 <!-- 奖杯展示 -->
 <div align="left">
   <img width="820px" src="https://github-profile-trophy.vercel.app/?username=Code-Newborn&column=-1" /> 
